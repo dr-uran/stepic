@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+.joke {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin: 20px 0;
+    border-left: 4px solid #0066cc;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+h2 {
+    color: #0066cc;
+    margin-top: 0;
+}
+
+/* Разные фоны для страниц */
+.index-page {
+    background-color: #f0f8ff;
+}
+
+.page2 {
+    background-color: #fff0f5;
+}
